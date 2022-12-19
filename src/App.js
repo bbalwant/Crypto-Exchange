@@ -1,9 +1,10 @@
 import './App.css';
+import Converter from './Component/Converter';
 
 function App() {
   return (
    <div>
-    Hello
+    <Converter />
    </div>
   );
 }
